@@ -1,6 +1,8 @@
 # Exploring Convolutional Networks
 ### Part of [Machine Learning Practical (University of Edinburgh)](https://www.inf.ed.ac.uk/teaching/courses/mlp/) coursework
 
+## [**Report**](https://github.com/iamstelios/Exploring-Convolutional-Neural-Networks/blob/master/Exploring%20Convolutional%20Networks.pdf)
+
 ### **Abstract:**
 
 Convolutional Neural Networks (CNN) are considered state-of-the-art for analyzing visual imagery. However for machine learning beginners can seem intimidating. First, CNN's two main components: Convolutional Layers and Pooling Layers, are explained in an implementation centric context, that also discusses underlying memory and efficiency issues. Then context expanding methods: striding, dilating and pooling are explored more deeply.
